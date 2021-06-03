@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short discovery of His Highness the Lord Protector's intentions touching the Anabaptists in the army, and all such as are against his reforming things in the church; which was first communicated to a Scotch Lord, who is called Twidle; but is now come to the ear of the Anabaptists. Upon which there is propounded 35 queries for his Highness to answer to his own conscience. / By a well-wisher to the Anabaptists prosperity, and all the rest of the separates of England.</title>
+            <author>Well-wisher to the Anabaptists prosperity.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93215</idno><idno type="EEBO-CITATION">99866485</idno>
+  <idno type="VID">168267</idno>
+  <idno type="EEBO-PROQUEST">2240945044</idno>
+  
+            <idno type="STC">Wing S3591</idno>
+            <idno type="STC">Thomason E852_3</idno>
+            <idno type="STC">ESTC R207436</idno>
+            <idno type="PROQUEST">99866485</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866485e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93215)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168267)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 129:E852[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short discovery of His Highness the Lord Protector's intentions touching the Anabaptists in the army, and all such as are against his reforming things in the church; which was first communicated to a Scotch Lord, who is called Twidle; but is now come to the ear of the Anabaptists. Upon which there is propounded 35 queries for his Highness to answer to his own conscience. / By a well-wisher to the Anabaptists prosperity, and all the rest of the separates of England.</title>
+                  <author>Well-wisher to the Anabaptists prosperity.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "August 20 1655"; and on p.8: "This libell was [illegible] of August 1655".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Army --  Early works to 1800.</term>
+               <term type="topical_term">Anabaptists --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168267:1"/>
+            <head>A short DISCOVERY Of His Highness the LORD PROTECTOR'S Intentions Touching The Anabaptists in the Army, and all such as are against his reforming things in the CHURCH; which was first communicated to a Scotch Lord, who is called <hi>Twidle▪</hi> but is now come to the ear of the ANABAPTISTS.</head>
+            <head type="sub"> Upon which there is propounded 35 QUERIES for his Highness to answer to his own CONSCIENCE.</head>
+            <byline>By a Well-wisher to the Anabaptists prosperity, and all the rest of the Separates of <hi>England.</hi>
+            </byline>
+            <div type="part">
+               <head>To His Highness the Lord Protector.</head>
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>THere is some Intelligence abroad, which I desire to communi<g ref="char:EOLhyphen"/>cate in a private way, lest I become a prey to the malice or envy of the ramping Lion. But to the matter intended; and that is this: It seems your Highness being discoursing with a Scotch Lord, who is called the Lord <hi>Twidle,</hi> you were pleased to say, That there was something amiss in the Church and State, which you would reform as soon as may be. Of those that were amiss in State, some were done; and the rest were a doing: and as for those things that were amiss in the Church, you hoped to rectifie by degrees, as convenient opportunity presented it self; but before you could do this work, the Anabaptists must be taken out of the Army; and this you could not do with sharp corrosive Medicines, but it must be done by degrees. From which there
+<pb n="2" facs="tcp:168267:2"/> are two things observable: 1. The Work. 2. The Way you intend to take to do this Work.</p>
+               <p>First, to the Work; and that is Church-Work: It seems you in<g ref="char:EOLhyphen"/>ten<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to follow the steps of them that are gone before, which could not be content to meddle with State-affairs, and to make Laws for the Body or Persons of men, but for the Conscience too; and to make Laws and Statutes, and impose them upon the People, as Rules of Divine Wor<g ref="char:EOLhyphen"/>ship. And this is the work you intend to be at, under pretence of cor<g ref="char:EOLhyphen"/>recting Error, and so to destroy Truth.</p>
+               <p>But who could have thought, when you made your last Speech to the Parliament, when your Tongue was so sweetly tip'd for the Liberty of Conscience, reproving the Parliament for having <hi>a Finger on their Brother's Conscience?</hi> who could have imagined, that then heard you, That you would have been so soon at the same Trade, unless he had sup<g ref="char:EOLhyphen"/>posed, <hi>A Fountain could have sent forth sweet Water and bit<g ref="char:EOLhyphen"/>ter?</hi>
+               </p>
+               <p>But secondly, The Way you intend to take to bring about this de<g ref="char:EOLhyphen"/>sign, is twofold: 1. To purge the Army of the Anabaptists. 2. To do it by degrees. But (<hi>Oliver</hi>) is this thy design? and is this the wa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be rid of the Anabaptists? and is this the Reason, because they hinder the reforming the things amiss in the Church? I confess, they have been Enemies to the Presby<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erian Church Government; and so were you, when you were at <hi>Dunbar</hi> in <hi>Scotland,</hi> or at least you seemed to be so by your words and actions: for you spake as pure Independency, as any of us all, then; and made this an Argument why we should fight stoutly, <hi>Because we had the Prayers of the Independents and baptised Churches.</hi>
+               </p>
+               <p>So highly did you seem to love the Anabaptists then, that you did not onely invite them into the Army, but entertain them into your Family: but it seems <hi>the case is altered.</hi> But I pray do not deceive your self, not let the Priests deceive you; for the Anabaptists are men that will not be shuffled out of their Birth-rights, as free born People of <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> and have they not filled your Towns your Cities, your Provinces, your Islands, your Castles your Navies, your Tents, your Armies, (ex<g ref="char:EOLhyphen"/>cept that which went to the <hi>West-Indies,</hi> which prospers so well) your Court? your very Councel is not free; onely we have left your Temples for your self to worship in. So that I believe it will be a hard thing to root them out, although you tell the Scotch Lord you will do it by de<g ref="char:EOLhyphen"/>grees, (as he reports.)</p>
+               <pb n="3" facs="tcp:168267:2"/>
+               <p>May it please your Highness seriously to consider what hath been said, and answer these ensuing Queries to your own Conscience.</p>
+               <p n="1">1. <hi>Whether your Highness had come to that height of honour and greatness you are now come to, if the Anabaptists (so called) had been as much your Enemies as they were your friends?</hi>
+               </p>
+               <p n="2">2. <hi>Whether the Anabaptists were ever unfaithful, either to the Commonwealth in general, or to your Highness in particular; and if not, then what is the reason of your intended dismission?</hi>
+               </p>
+               <p n="3">3. <hi>Whether the Anabaptists be not as honest now, as in the yeer 1650, and 51, and 52, &amp;c. and if so, why not as useful now, as then?</hi>
+               </p>
+               <p n="4">4. <hi>Whether the Anabaptists are not to be commended for their integrity, which had rather keep Faith and a good Conscience, although it may lose them their employments, then to keep their employments with the loss of both?</hi>
+               </p>
+               <p n="5">5. <hi>Whether the Anabaptists may not as justly endeavour to eat out the bowels of your Government, as your Highness may en<g ref="char:EOLhyphen"/>deavour to eat them out of their employments?</hi>
+               </p>
+               <p n="6">6. <hi>Whether the Anabaptists did not come more justly into their emplyments in the Army, then your Highness came into the Seat of Government?</hi>
+               </p>
+               <p n="7">7. <hi>Whether, If the Anabaptists had the power in their hands, and were as able to cast you out as you were them, and they did intend it to you, as you do to them; whether, I say, your Highness would not say, They were all Knaves?</hi>
+               </p>
+               <p n="8">8. <hi>Whether this be fair dealing in the sight of God and men, to pretend a great deal of love to the Anabaptists, as to Major</hi> Pack, <hi>and Mr.</hi> Kiffin, <hi>and a hundred more that I could name, when at the same time you intend evil against them?</hi>
+               </p>
+               <p n="9">9. <hi>Whether the Anabaptist will not be in a better condition in the day of Christ, that keeps his Covenant with God and men, then
+<pb n="4" facs="tcp:168267:3"/> your Highness will be, if you break with both?</hi>
+               </p>
+               <p n="10">10. <hi>Whether a hundred of the old Anabaptists, such as march'd under your command, in 48, 49, and 50, &amp;c. be not as good as two hundred of your new Courtlers, if you were in such a conditi<g ref="char:EOLhyphen"/>on as you were at</hi> Dunbar <hi>in</hi> Scotland?</p>
+               <p n="11">11. <hi>Whether the cause of the Armyes defect in</hi> Hispani<g ref="char:EOLhyphen"/>ola, <hi>was because there was so many Anabaptists in it; and if so, whether that be the onely reason, that they are so much out of date?</hi>
+               </p>
+               <p n="12">12. <hi>Whether your Highness hath not changed your former intention, to have an equal respect to the godly, though different in judgement; and if so, whether it be from the better to the worse?</hi>
+               </p>
+               <p n="13">13. <hi>Whether you Highness Conscience was not more at peace, and your Minde more set upon things above, when you loved the A<g ref="char:EOLhyphen"/>nabaptists, then it is now, when you hate their Principle, or their service, or both?</hi>
+               </p>
+               <p n="14">14. <hi>Whether your Highness Court is not a greater charge to this Nation, then the Anabaptists in the Army; and if so, whe<g ref="char:EOLhyphen"/>ther this be the case that you promised the people?</hi>
+               </p>
+               <p n="15">15. <hi>Whether there be any disproportion betwixt the state of things now, and the state of things in the dayes of old; and if there be, shew us where it lieth, how, and when?</hi>
+               </p>
+               <p n="16">16. <hi>Whether the Monies laid out, in the making of the new Rivers and Ponds at</hi> Hampton-Court, <hi>might not have been better bestowed in paying the publick Faith, or the Anabaptists Arrears before their dismission?</hi>
+               </p>
+               <p n="17">17. <hi>Whether it is not convenient for the Anabaptists to pro<g ref="char:EOLhyphen"/>vide for their own safety, seeing from you they can expect none?</hi>
+               </p>
+               <p n="18">18. <hi>Whether it will be any more Treason to fight for our Liber<g ref="char:EOLhyphen"/>ties and civil Proprieties in these dayes, if they be denied us, then it was to fight for them in the dayes of the King?</hi>
+               </p>
+               <p n="19">19. <hi>Whether</hi> The Instrument of Government <hi>be as the Laws of the</hi> Medes <hi>and</hi> Persians, <hi>that alter not; if so, how is
+<pb n="5" facs="tcp:168267:3"/> it that Mr.</hi> John Biddle <hi>is now a Prisoner?</hi>
+               </p>
+               <p n="20">20. <hi>Whether your Highness may not as well violate the whole Instrument of Government, as the 37 and 38 Articles? if so, what security have the people for their Liberty?</hi>
+               </p>
+               <p n="21">21. <hi>Whether our Liberty doth not wholly depend upon your will, and the will of a future Protector, seeing</hi> The Instrument of Government <hi>is so little useful? if so, whether our condition be not as bad as ever?</hi>
+               </p>
+               <p n="22">22. <hi>VVhether you may not as justly suffer all to be put in prison, that differ from the Church of</hi> England, <hi>as to suffer Mr.</hi> Biddle <hi>to be imprisoned?</hi>
+               </p>
+               <p n="23">23. <hi>Whether it will not be more a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>minable to the Anabap<g ref="char:EOLhyphen"/>tists, or Independents, or Mr.</hi> Biddle, <hi>or any other professing Faith in God by Jesus Christ, and are not Disturbers of the civil Peace, nor turn their Liberty into licentiousness, to suffer for their Consciences under your Government, that promised Liberty to such, then it was to have suffered under the King, that promised them none?</hi>
+               </p>
+               <p n="24">24. <hi>Whether your Highness will not appear to be a dreadful A<g ref="char:EOLhyphen"/>postate and fearful Dissembler, if you suffer persecution to fall upon the Anabaptists, or Independents, or them of Mr.</hi> Biddle's <hi>Judgement, seeing you promised equal Liberty to all?</hi>
+               </p>
+               <p n="25">25. <hi>VVhether this will not prove your Highness's ruine, if you joyn with such a wicked Principle, to persecute for Conscience, or to turn men out of the Army for being Anabaptists, or for any such thing, as differs from the Church of</hi> England, <hi>seeing God hath confounded all such as have done so?</hi>
+               </p>
+               <p n="26">26. <hi>Whether the old Parliament was not turned out, for leav<g ref="char:EOLhyphen"/>ing undone that which they ought to have done? and if so, whe<g ref="char:EOLhyphen"/>ther those things be done since?</hi>
+               </p>
+               <p n="27">27. <hi>Whether the little Parliament was not turned out, for do<g ref="char:EOLhyphen"/>ing that which the other left undone, or taking away of Tythes, and other Grievances? And if so, then</hi>
+               </p>
+               <p n="28">28. <hi>Whether you did not intend your own ends more then you
+<pb n="6" facs="tcp:168267:4"/> did the Nations good, in breaking the first Parliament, and calling the second, and dissolving of them again?</hi>
+               </p>
+               <p n="29">29. <hi>Whether</hi> The Instrument of Government <hi>was not preparing eight or nine dayes before the breaking up of the little Parliament; and if so, whether you did not intend their dissolv<g ref="char:EOLhyphen"/>ing?</hi>
+               </p>
+               <p n="30">30. <hi>Whether you did not tell a shameful untruth to the last Parliament, saying, That</hi> you did not know of their dissolv<g ref="char:EOLhyphen"/>ing, <hi>that is to say, the little Parliament,</hi> till they came to deliver up their Power to you?</p>
+               <p>
+                  <hi>Whether your Highness did not put a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lur upon the Lord</hi> Lam<g ref="char:EOLhyphen"/>bert, <hi>when he should have gone Lord Deputy of</hi> Ireland, <hi>in tel<g ref="char:EOLhyphen"/>ling the Parliament,</hi> It savoured too much of Monarchy; <hi>and so sent</hi> Fleetwood <hi>with a lower Title?</hi>
+               </p>
+               <p n="32">32. <hi>Whether your Highness do not intend to put another slur upon the Lord</hi> Lambert, <hi>in sending for the Lord Deputy to come into</hi> England, <hi>to make him</hi> Generalissimo <hi>of the Armies in</hi> England, Scotland, <hi>and</hi> Ireland?</p>
+               <p n="33">33. <hi>Whether it is not convenient for the Lord</hi> Lambert <hi>to consider of these actions, and to have an eye to your proceedings, lest by by degrees you eat him out of all, as you intend to do the Ana<g ref="char:EOLhyphen"/>baptists?</hi>
+               </p>
+               <p n="34">34. <hi>Whether the excessive pride of your Family, do not call for a speedy judgement from Heaven, seeing Pride never geeth without a fall?</hi>
+               </p>
+               <p n="35">35. <hi>Whether the six Coach-horses did not give your High<g ref="char:EOLhyphen"/>ness a fair warning of some worse thing to follow, if you repent not, seeing God often forewarns before he strikes home?</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:168267:4"/>
+               <head>The Conclusion.</head>
+               <opener>
+                  <salute>My Lord,</salute>
+               </opener>
+               <p>MY humble Request is, That you will seri<g ref="char:EOLhyphen"/>ously consider of these few Lines: although you may dislike the way by which they are com<g ref="char:EOLhyphen"/>municated, yet let the matter sink deep into your heart; for these things should have come to you in another maner, had not your Highness cast off all such friendly communication, (by word of mouth) and the persons too if they did but tell you plainly their mindes▪ And take <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of casting away old Friends for new <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tance, as <hi>Rehoboam</hi> did, 1 <hi>King.</hi> 12. 8. who for look the counsel of his good old friends, and consulted with his young Courtiers; which caused the ten Tribes to revolt from him.</p>
+               <p>And it is a deadly sign of a speedy ruine, when a Prince or a State casts off the Interest of the People of God; as you may see in 2 <hi>Chron.</hi> 24. 17. how <hi>Joash</hi> forsook the people and house of God,
+<pb n="8" facs="tcp:168267:5"/> and then his host fell before a few of the <hi>Asiyri<g ref="char:EOLhyphen"/>ans,</hi> as you may see in <hi>vers.</hi> 24 of the same chap. and at last his own Servants conspired against him, and slew him.</p>
+               <p>And therefore, <hi>O Cromwel,</hi> leave off thy wick<g ref="char:EOLhyphen"/>ed design of casting off the Interest of the Peo<g ref="char:EOLhyphen"/>ple of God, and let my counsel be acceptable to thee; and break off thy sins by righteousness, and thine iniquity by shewing mercy to the poor, and it may be a lengthning of thy tran<g ref="char:EOLhyphen"/>quillity: for it is not strength united with policy, but righteousness accompanied with strength, that must keep alive your Interest with God and the People: and when both these die, that is to say, righteousness and sincerity, then adie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to thy greatness here, and thy eternal happiness hereafter.</p>
+            </div>
+            <closer>
+               <signed>From him who wishes your Highness happiness, so long as you do well.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for the information of all such as prize the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iberty of their Con<g ref="char:EOLhyphen"/>sciences, for which so much Blood hath been spilt.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
